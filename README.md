@@ -19,4 +19,3 @@ Uma documentação detalhada deste projeto pode ser encontrada na [wiki](https:/
 | Angelo Gabriel Vasconcelos Baptista  | 22.122.081-7  |
 | Thiago Monteiro Tinonin  | 22.122.044-5  |
 | Giulliano Mazzaro de Camargo  | 22.121.024-8  |
-| Juan Caio Paronitti Galera  | 22.122.067-6  |
